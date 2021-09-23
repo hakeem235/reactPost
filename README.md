@@ -1,4 +1,4 @@
-# Note-Taker
+# React Post
 ![Made by@](https://img.shields.io/badge/License-hakeem235-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
