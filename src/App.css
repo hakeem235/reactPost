@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;700&display=swap');
+.App{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+.main {
+    margin: 50px;
+    padding: 25px;
+    border-radius: 5px;
+    background-color: rgba(245, 245, 245, 0.171);
+}
+
+

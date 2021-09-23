@@ -1,0 +1,42 @@
+
+.navbar {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.438);
+    margin-bottom: 15px;
+}
+
+.logo {
+    color: whitesmoke;
+}
+
+.logo span {
+    color: rgb(209, 137, 3);
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+}
+
+li {
+   
+    margin: 10px;
+}
+
+a {
+    color: whitesmoke ;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+a:hover {
+    font-size: 150%;
+    transition-duration: 2s;
+    color: whitesmoke;
+}
